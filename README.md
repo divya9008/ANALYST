@@ -1,2 +1,4 @@
 # ANALYST
 Improving skills....
+
+QUERIES
